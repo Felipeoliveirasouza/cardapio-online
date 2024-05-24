@@ -16,4 +16,4 @@
   <li>Bootstrap</li>
 </ul>
 <h2>Onde posso testar esse cardapio?</h2>
-<p>Para acessar uma do cardapio, basta acessar o link: </p>
+<p>Para acessar uma do cardapio, basta acessar o link: https://felipeoliveirasouza.github.io/cardapio-online/</p>
